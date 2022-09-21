@@ -10,3 +10,6 @@
 [submodule "py2cpp/pybind"]
 	path = py2cpp/pybind
 	url = https://github.com/aqiugroup/pybind
+[submodule "snippets-python"]
+	path = snippets-python
+	url = https://github.com/aqiugroup/snippets-python.git
