@@ -13,3 +13,6 @@
 [submodule "snippets-python"]
 	path = snippets-python
 	url = https://github.com/aqiugroup/snippets-python.git
+[submodule "alchemy"]
+	path = alchemy
+	url = https://github.com/aqiugroup/alchemy.git
